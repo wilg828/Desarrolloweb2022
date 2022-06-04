@@ -1,0 +1,25 @@
+table
+{
+    /*background-color:darkseagreen;*/
+    text-align: left;
+    width: 50%;
+    border-collapse: collapse;
+}
+th,td
+{
+    border:solid 1px black;
+    padding: 15px;
+}
+
+thead
+{   
+    background-color:#add;
+    /*border-bottom: solid 5px #253609;*/
+    color: black;
+}
+
+tr:hover td
+{
+    background-color: #add;
+    color: black;
+}
